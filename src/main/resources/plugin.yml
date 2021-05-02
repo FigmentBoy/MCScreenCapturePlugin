@@ -1,0 +1,8 @@
+name: Screencapture
+version: ${project.version}
+main: io.github.figmentboy.screencapture.ScreenCapture
+api-version: 1.15
+commands:
+  map:
+    description: Set map to screen pixels
+    usage: /<command>
